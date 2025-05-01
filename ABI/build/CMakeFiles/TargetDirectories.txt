@@ -1,0 +1,4 @@
+/home/tourist/diy/cs_basics/infra/abi/build/CMakeFiles/main.dir
+/home/tourist/diy/cs_basics/infra/abi/build/CMakeFiles/assembly.dir
+/home/tourist/diy/cs_basics/infra/abi/build/CMakeFiles/edit_cache.dir
+/home/tourist/diy/cs_basics/infra/abi/build/CMakeFiles/rebuild_cache.dir
