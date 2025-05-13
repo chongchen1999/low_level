@@ -157,4 +157,8 @@ git cat-file -p <SHA-1>  # 查看对象内容
 
 ## Changes
 
-Do some changes on the main branch.
+Do some changes on the main branch.Changes
+
+Do some changes on the feat branch.
+
+This is a demo for git conflict when merging...
