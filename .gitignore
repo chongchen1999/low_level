@@ -1,4 +1,6 @@
 build/
 a.out
 dump.txt
-/git/
+git/
+*.so
+*.o
