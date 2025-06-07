@@ -6,3 +6,4 @@ git/
 *.o
 example-code/
 *.txt
+*.log
