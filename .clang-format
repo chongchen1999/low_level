@@ -24,3 +24,7 @@ NamespaceIndentation: All
 
 # New settings for extern blocks
 IndentExternBlock: true
+
+# Indent case labels after switch
+IndentCaseLabels: true
+IndentCaseBlocks: true
