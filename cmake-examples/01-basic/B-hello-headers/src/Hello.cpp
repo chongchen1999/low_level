@@ -2,7 +2,6 @@
 
 #include "Hello.h"
 
-void Hello::print()
-{
+void Hello::print() {
     std::cout << "Hello Headers!" << std::endl;
 }

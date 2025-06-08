@@ -27,7 +27,7 @@ add_executable(hello_binary
 )
 
 # link the new hello_library target with the hello_binary target
-target_link_libraries( hello_binary
+target_link_libraries(hello_binary
     PRIVATE 
         hello_library
 )

@@ -8,3 +8,4 @@ example-code/
 *.txt
 *.log
 !CMakeLists.txt
+.cache/
